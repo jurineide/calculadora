@@ -1,0 +1,15 @@
+C:\Users\jsjus\Desktop\csharpp\bin\Debug\net6.0\csharpp.exe
+C:\Users\jsjus\Desktop\csharpp\bin\Debug\net6.0\csharpp.deps.json
+C:\Users\jsjus\Desktop\csharpp\bin\Debug\net6.0\csharpp.runtimeconfig.json
+C:\Users\jsjus\Desktop\csharpp\bin\Debug\net6.0\csharpp.dll
+C:\Users\jsjus\Desktop\csharpp\bin\Debug\net6.0\csharpp.pdb
+C:\Users\jsjus\Desktop\csharpp\obj\Debug\net6.0\csharpp.csproj.AssemblyReference.cache
+C:\Users\jsjus\Desktop\csharpp\obj\Debug\net6.0\csharpp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsjus\Desktop\csharpp\obj\Debug\net6.0\csharpp.AssemblyInfoInputs.cache
+C:\Users\jsjus\Desktop\csharpp\obj\Debug\net6.0\csharpp.AssemblyInfo.cs
+C:\Users\jsjus\Desktop\csharpp\obj\Debug\net6.0\csharpp.csproj.CoreCompileInputs.cache
+C:\Users\jsjus\Desktop\csharpp\obj\Debug\net6.0\csharpp.dll
+C:\Users\jsjus\Desktop\csharpp\obj\Debug\net6.0\refint\csharpp.dll
+C:\Users\jsjus\Desktop\csharpp\obj\Debug\net6.0\csharpp.pdb
+C:\Users\jsjus\Desktop\csharpp\obj\Debug\net6.0\csharpp.genruntimeconfig.cache
+C:\Users\jsjus\Desktop\csharpp\obj\Debug\net6.0\ref\csharpp.dll
